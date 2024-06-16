@@ -34,10 +34,8 @@ This project covered several Azure fundamentals, including using Remote Desktop 
 </p>
 <br />
 
-<p>
-![image](https://github.com/lcccodes/azure-network-protocols/assets/171904823/23cf8346-2903-4935-b707-04b66b9fe31b)
+![image](https://github.com/lcccodes/azure-network-protocols/assets/171904823/68a72aa4-eaf9-457b-b6a3-973989e1ef58)
 
-</p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
