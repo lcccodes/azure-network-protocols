@@ -7,7 +7,7 @@ This project covered several Azure fundamentals, including using Remote Desktop 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Compute/Storage)
 - Remote Desktop
 - Powershell and various Command-Line Tools (some Linux)
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
