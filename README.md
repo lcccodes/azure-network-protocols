@@ -48,3 +48,13 @@ This project covered several Azure fundamentals, including using Remote Desktop 
 [above]: Connecting from local machine into Windows VM (public IP) via Remote Desktop.
 </p>
 <br />
+
+
+
+![image](https://github.com/lcccodes/azure-network-protocols/assets/171904823/4c4b3e8c-6c43-4d01-8567-0832902a9f2d)
+
+
+<p>
+[above]: Effect of having denied ICMP traffic into Ubuntu machine; then allowing it once again. You edit this from the VM's blade > Settings> inbound security rules.
+</p>
+<br />
