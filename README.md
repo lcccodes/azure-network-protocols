@@ -30,7 +30,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ![image](https://github.com/lcccodes/azure-network-protocols/assets/171904823/84fce06a-00b7-4b45-8e89-8c273eaf3c98)
 
 <p>
-[above]:Creating a resource group, storage account and blob container.
+[above]: Creating a resource group, storage account and blob container.
 </p>
 <br />
 
