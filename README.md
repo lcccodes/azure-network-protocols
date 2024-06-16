@@ -20,10 +20,10 @@ This project covered several Azure fundamentals, including using Remote Desktop 
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: creating resource group; storage account and blob container
+- Step 2: creating Windows VM and Linux VM (Ubuntu) on the same region, vNet and subnet
+- Step 3: remote connect to VM1 and install Wireshark
+- Step 4: from VM1, ssh into VM2 and observe traffic flows (ICMP, SSH, DHCP, DNS, RDP)
 
 <h2>Actions and Observations</h2>
 
