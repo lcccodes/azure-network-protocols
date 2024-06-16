@@ -26,7 +26,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 4
 
 <h2>Actions and Observations</h2>
-
+Created resource group, storage and blob container:
 ![image](https://github.com/lcccodes/azure-network-protocols/assets/171904823/fd39ba44-7841-4eb7-ac82-81d42c3d2d0c)
 
 <p>
