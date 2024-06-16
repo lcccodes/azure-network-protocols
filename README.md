@@ -18,7 +18,7 @@ This project covered several Azure fundamentals, including using Remote Desktop 
 - Windows 10 (22H2)
 - Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
+<h2>Overview</h2>
 
 - Step 1: creating resource group; storage account and blob container
 - Step 2: creating Windows VM and Linux VM (Ubuntu) on the same region, vNet and subnet
